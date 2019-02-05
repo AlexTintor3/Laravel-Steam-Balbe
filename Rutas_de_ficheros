@@ -1,0 +1,3 @@
+Master = \Homestead\codigo\SteamBalbe\resources\views\layouts\master.blade.php
+Navbar = \Homestead\codigo\SteamBalbe\resources\views\partials\navbar.blade.php
+Index = \Homestead\codigo\SteamBalbe\public
